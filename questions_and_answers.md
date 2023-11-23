@@ -9,6 +9,7 @@
 let greeting;
 greetign = {};
 console.log(greetign);
+
 ```
 
 - A: `{}`
@@ -18,10 +19,10 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B:{}?
 
 <i>Write your explanation here</i>
-
+The output is {} because I've declared a variable greeting and assigned it an empty object {}. When I log greetign to the console using console.log(greetign), it prints the current value of greetign, which is the empty object.
 </p>
 </details>
 
@@ -43,10 +44,10 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer:C:"12" ?
 
 <i>Write your explanation here</i>
-
+this function two parametar ..one parametar integer type other type string tye.two parameter sum first parametar beside second parametar..
 </p>
 </details>
 
@@ -69,10 +70,10 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer:A: ['🍕', '🍫', '🥑', '🍔'] ?
 
 <i>Write your explanation here</i>
-
+Answer is A.beacuse I do not change this array.I change my info object change so array element is not change...
 </p>
 </details>
 
@@ -94,10 +95,10 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer:B: `Hi there, undefined` ?
 
 <i>Write your explanation here</i>
-
+this function one parametar...when I function call but do not pass parametar value..so output undefined....
 </p>
 </details>
 
@@ -122,9 +123,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer:C:3 ?
 
 <i>Write your explanation here</i>
-
+this is array 4 elements..first element 0 ..0 is falsy value..other value is is truthty value..this array 3 truthy value 3 so count variable value 3...
 </p>
 </details>
